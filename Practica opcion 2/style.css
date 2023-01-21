@@ -1,0 +1,44 @@
+.GiseleBündchen {
+    fill: goldenrod;
+}
+
+.BarRafaeli {
+    fill: aquamarine;
+}
+
+.BlakeLively {
+    fill: darksalmon;
+}
+
+.ErinHeatherson {
+    fill: deeppink;
+}
+
+.ToniGarrn {
+    fill: chartreuse;
+}
+
+.KellyRohrbach {
+    fill: blueviolet;
+}
+
+.NinaAgdal {
+    fill: cyan;
+}
+
+.CamilaMorrone {
+    fill: red;
+}
+
+path.line {
+    fill: none;
+    stroke-width: 2px;
+}
+
+path.black {
+    stroke: black;
+}
+
+path.dashed {
+    stroke: dimgray;
+}
